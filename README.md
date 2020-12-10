@@ -33,7 +33,7 @@ Testschritt-Nr. | Testschritt | Soll-Ergebnis | Ist-Ergebnis | Status | Anmerkun
 1 | Gehe auf Website | Registrierungsformular wird geöffnet | - | - | -
 2 | Auf Seite registrieren | Registrierung erfolgreich und Account angelegt | - | - | -
 3 | Auf Seite einloggen | Startseite des Portals wird geöffnet | - | - | -
-4 | Nach Stellenanzeigen suchen | Passende Stellenanzeigen werden gefiltert angezeigt | - | - | -
+4 | Nach Stellenanzeigen von "Alda" suchen | Passende Stellenanzeigen werden gefiltert angezeigt | - | - | -
 5 | Stellenanzeige öffnen | Informationen zur Stellenanzeige wird auf eigener Seite geöffnet | - | - | -
 6 | Auf Stellenanzeige bewerben | Formular für die Bewerbung erscheint | - | - | -
 7 | Bewerbung abschicken | Unternehmen wird über eingegangene Bewerbung benachrichtigt | - | - | -
@@ -41,5 +41,5 @@ Testschritt-Nr. | Testschritt | Soll-Ergebnis | Ist-Ergebnis | Status | Anmerkun
 ### Äquivalenzklassen
 Parameter | Äquivalenzklasse | Räpresentant
 --- | --- | --- |
-Suchbegriff | pos_Ä1 | Aldi
+Suchbegriff | pos_Ä1 | Alda
 Suchbegriff | neg_Ä2 | DROP DATABASE users;
